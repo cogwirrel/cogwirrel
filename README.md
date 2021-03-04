@@ -1,6 +1,6 @@
 ## Hi, I'm Jack 👋
 
-### Senior Solutions Engineer, AWS Prototyping
+### Software Engineer, AWS Prototyping
 
 - 🔭 I’m currently working on exciting prototypes with AWS customers!
 - 🌱 I’m currently learning Go
