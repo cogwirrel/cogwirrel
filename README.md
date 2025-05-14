@@ -2,9 +2,9 @@
 
 ### Software Engineer, AWS Prototyping
 
-- 🚀 Check out [AWS PDK](https://github.com/aws/aws-pdk) to accelerate building projects!
-- 🔭 I’m currently working on exciting prototypes with AWS customers!
-- 🌱 I’m currently learning [Smithy](https://smithy.io/2.0/)
+- 🚀 Check out [Nx Plugin for AWS](https://github.com/awslabs/nx-plugin-for-aws) to accelerate building projects!
+- 🔭 I’m currently working on tooling to accelerate AWS Prototyping!
+- 🌱 I’m currently learning [MCP stuff](https://modelcontextprotocol.io/)
 - 📫 How to reach me: [💡.st](https://💡.st/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a wannabe powerlifter! 🏋️‍♂️
